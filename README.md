@@ -1,6 +1,9 @@
 ## Hello, I'm Tony
 <a href="https://www.linkedin.com/in/anthony-riggio-07a136b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a>
 
+I am a recent graduate looking to pivot into a more technical career in cybersecurity. Listed in this repository are my completed projects that display my skills developed as well as personal projects. I am continuosly developing my knowledge and skills in cybersecurity, quantum computing, machine learning and deep learning, and I look forward to pursuing a career tethered to these interests.
+
+Certifications I've attained/completed as well as my skills and educational experience can be found on my LinkedIn page linked at the top of the README file for this repository.
 <!--
 **LogPath/LogPath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
